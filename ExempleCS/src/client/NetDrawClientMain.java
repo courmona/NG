@@ -11,7 +11,7 @@ public class NetDrawClientMain {
 
     public static void main(String[] args) {
         
-	NetDrawClient client = new NetDrawClient("Collectitiel Dessin et Chat", 640, 480, 1000, 500);
+	NetDrawClient client = new NetDrawClient("Collectitiel tt", 640, 480, 1000, 500);
 
     }
 
