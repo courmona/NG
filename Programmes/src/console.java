@@ -6,6 +6,7 @@ public class console {
 		for (int i=0;i<10;i++) {
 			System.out.println("i= "+i);
 		}
+		
 		System.out.println("modif ра partir de github.com et retour depuis eclipse");
 		System.out.println("devtestaxel entre dans la place");
 
